@@ -123,7 +123,7 @@ The port of loading does not change this deadline.
 > **Example:** If the vessel arrival date is `November 20, 2026`, complete validation at least 24 hours before arrival. The exact cutoff depends on the vessel arrival time.
 
 #### If the validation deadline is missed:
-Applications cannot be submitted and ACD certificates cannot be issued after this deadline.
+Applications cannot be submitted and ACD certificates cannot be issued after this deadline. Shipments without an ACD issued by the deadline will be flagged as non-compliant upon arrival at the port in Sudan.
 
 ### When to Apply
 
