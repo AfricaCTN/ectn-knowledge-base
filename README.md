@@ -1,5 +1,7 @@
 # ECTN Knowledge Base
 
+![Open Source ECTN Knowledge Base](https://cdn.africactn.com/africactn/Open%20Source%20Knowledge%20Base%20for%20ECTN%20Requirements.png)
+
 Maintained by [AfricaCTN](https://africactn.com/).
 
 This repository gives information about Electronic Cargo Tracking Note (ECTN) requirements for African countries.
