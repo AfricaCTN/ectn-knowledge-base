@@ -1,6 +1,8 @@
 <h1 align="center">ECTN Knowledge Base</h1>
 
-<img src="https://cdn.africactn.com/africactn/Open%20Source%20Knowledge%20Base%20for%20ECTN%20Requirements.png" alt="ECTN Open Source Knowledge Base" href="https://africactn.com width="300">
+<a href="https://africactn.com">
+  <img src="https://cdn.africactn.com/africactn/Open%20Source%20Knowledge%20Base%20for%20ECTN%20Requirements.png" alt="ECTN Open Source Knowledge Base" width="500">
+</a>
 
 Maintained by [AfricaCTN](https://africactn.com/).
 
