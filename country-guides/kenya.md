@@ -58,6 +58,7 @@ Reference example: [bill of lading](../examples/shipping-documents/bill-of-ladin
 Reference example: [commercial invoice](../examples/shipping-documents/commercial-invoice.pdf).
 - The commercial invoice must show the goods value, currency and Incoterm.
 - If the currency on the commercial invoice differs from the export declaration, the exchange rate must be mentioned.
+- The goods description must be detailed, ex. "Household goods" is NOT permitted you must state what the goods are
 
 ### Freight Invoice
 
