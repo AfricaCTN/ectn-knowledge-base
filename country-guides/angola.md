@@ -84,7 +84,7 @@ Reference example: [Documento Único](../examples/shipping-documents/documento-u
 ### Conditional Requirements
 
 #### Importing Road Components
-- As of 2025-06-01 when importing certain vehicle parts to Angola, importers must now get prior authorization from Angola's National Land Transport Agency (ANTT). The following HS codes now require the ANTT document:
+As of 2025-06-01 when importing certain vehicle parts to Angola, importers must now get prior authorization from Angola's National Land Transport Agency (ANTT). The following HS codes now require the ANTT document:
 | HS Code | Item |
 | --- | --- |
 | 8408.20 | Engines (used for vehicle propulsion) |
