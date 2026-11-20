@@ -63,6 +63,7 @@ Reference example: [bill of lading](../examples/shipping-documents/bill-of-ladin
 
 Reference example: [commercial invoice](../examples/shipping-documents/commercial-invoice.pdf).
 - Provide a commercial invoice or proforma invoice.
+- The goods description must be detailed, ex. "Household goods" is NOT permitted you must state what the goods are
 
 ### Freight Invoice
 
