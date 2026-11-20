@@ -85,15 +85,15 @@ Reference example: [Documento Único](../examples/shipping-documents/documento-u
 
 #### Importing Road Components
 - As of 2025-06-01 when importing certain vehicle parts to Angola, importers must now get prior authorization from Angola's National Land Transport Agency (ANTT). The following HS codes now require the ANTT document:
-| **HS Code** | **Item**                                        |
-| ----------- | ----------------------------------------------- |
-| 8408.20     | Engines (used for vehicle propulsion)           |
-| 8708.40     | Gearboxes (including gears & parts)             |
-| 8706.00     | Chassis (with engines for motor vehicles)       |
-| 8707.00     | Bodies (including cabins)                       |
-| 8708.94     | Steering systems (with columns, wheels, cables) |
-| 8708.80     | Suspension systems (including shock absorbers)  |
-| 8708.50     | Transmission systems                            |
+| HS Code | Item |
+| --- | --- |
+| 8408.20 | Engines (used for vehicle propulsion) |
+| 8708.40 | Gearboxes (including gears & parts) |
+| 8706.00 | Chassis (with engines for motor vehicles) |
+| 8707.00 | Bodies (including cabins) |
+| 8708.94 | Steering systems (with columns, wheels, cables) |
+| 8708.80 | Suspension systems (including shock absorbers) |
+| 8708.50 | Transmission systems |
 
 #### Suspended HS Codes for Import
 The following HS codes are suspended for an indefinite duration:
